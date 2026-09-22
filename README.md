@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Form-filler
 
-# Run and deploy your AI Studio app
+An automated tool designed to streamline and simplify form submission workflows.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/ae1134b1-4ffe-4450-b87d-8dd6024fa13a
+- **Automated Data Entry:** Quickly populate form fields using predefined datasets or inputs.
+- **Fast & Efficient:** Reduces manual effort and repetitive tasks.
+- **Customizable:** Easily configure input sources and field mappings.
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+- [Node.js](https://nodejs.org/) / [Python](https://www.python.org/) *(keep whichever applies)*
+- Git
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/rudra520/Form-filler.git](https://github.com/rudra520/Form-filler.git)
+   cd Form-filler
