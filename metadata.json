@@ -1,0 +1,6 @@
+{
+  "name": "FormFiller - Automated Exam & Gov Application Platform",
+  "description": "Full-stack universal identity vault, zero-shot AI document parser, OTP bridge, and RBAC workflow platform powered by MongoDB and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
